@@ -8,5 +8,5 @@ var MountebankGenerator = function () {
 };
 
 MountebankGenerator.identifier = "net.ryanmccuaig.PawExtensions.MountebankGenerator";
-MountebankGenerator.title = "Mountebank Generator";
+MountebankGenerator.title = "Mountebank (http://www.mbtest.org)";
 registerCodeGenerator(MountebankGenerator);
